@@ -42,6 +42,7 @@ Problems are organized topic-wise:
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ArchitTiwary007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/archit-tiwary-259378325)
+[![Leetcode](https://img.shields.io/badge/LinkedIn-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/Archit_Tiwary)
 
 ---
 
