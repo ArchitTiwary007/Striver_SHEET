@@ -1,4 +1,4 @@
-# 🧠 Striver SDE Sheet
+# 🧠 Striver SDE Sheet + Coder Army's Playlist
 
 Consistent practice of the Striver SDE Sheet — solving problems with clean and optimized C++ solutions.
 
