@@ -41,7 +41,7 @@ Problems are organized topic-wise:
 ## 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ArchitTiwary007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/archit-tiwary-259378325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/archit-tiwary-259378325)
 
 ---
 
