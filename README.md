@@ -8,19 +8,6 @@ Consistent practice of the Striver SDE Sheet — solving problems with clean and
 
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Progress-Active-green?style=flat-square)
-
----
-
-## 📂 Structure
-
-Problems are organized topic-wise:
-- Arrays  
-- Linked List  
-- Strings  
-- Trees  
-- Graphs  
-- Dynamic Programming  
 
 ---
 
@@ -35,13 +22,14 @@ Problems are organized topic-wise:
 ## 🎯 Goal
 
 > Crack SDE interviews with strong DSA fundamentals.
+> Include some basic and famous questions for DSA rounds.
 
 ---
 
 ## 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ArchitTiwary007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/archit-tiwary-259378325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/archit-tiwary-259378325)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat-square&logo=leetcode)](https://leetcode.com/Archit_Tiwary)
 
 ---
