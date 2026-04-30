@@ -31,6 +31,7 @@ Consistent practice of the Striver SDE Sheet — solving problems with clean and
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/ArchitTiwary007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/archit-tiwary-259378325)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat-square&logo=leetcode)](https://leetcode.com/Archit_Tiwary)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akki4049)
 
 ---
 
