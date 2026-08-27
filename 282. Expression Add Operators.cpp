@@ -1,41 +1,38 @@
 class Solution {
 public:
-vector<string>ans;
-void helper(int i,string num,int target,const string& res,long eval,long residue)
+vector<string>ans;//return this
+void helper(string& num,int target,int i,const string& currStr,long eval,long residue)
 {
     if(i==num.size())
     {
         if(eval==target){
-        ans.push_back(res);
+        ans.push_back(currStr);
         return;
-    }
-    }
-    string currStr;//track of curr number
-    long s=0;
-
-    //backtrack
-    for(int j=i;j<num.size();j++){
-
-        //handling leading 0
-        if(j>i && num[i]=='0')
-        {
-            return;
         }
-        currStr+=num[j];
-        s=s*10+num[j]-'0';//Pura number banao
+    }
+
+    string currNumStr;
+    long NumVal=0;
+    for(int j=i;j<num.size();j++)//Loop as per each level or index
+    {
+        if(j>i && num[i]=='0') return;//handling 0
+
+        currNumStr+=num[j];//loop ke according level wise numbers nikalo
+        NumVal=NumVal*10+num[j]-'0';//str num ka value nikalo
 
         if(i==0)
         {
-            helper(j+1,num,target,res+currStr,s,s);
-        }else{
-        helper(j+1,num,target,res + "+" + currStr,eval+s,+s);
-        helper(j+1,num,target,res + "-" + currStr,eval-s,-s);
-        helper(j+1,num,target,res + "*" + currStr,eval - residue + residue*s,residue*s);
+            helper(num,target,j+1,currStr+currNumStr,NumVal,NumVal);
+        }
+        else{
+            helper(num,target,j+1,currStr+"+"+currNumStr,eval+NumVal,+NumVal);
+            helper(num,target,j+1,currStr+"-"+currNumStr,eval-NumVal,-NumVal);
+            helper(num,target,j+1,currStr+"*"+currNumStr,eval-residue + residue*NumVal,residue*NumVal);
         }
     }
 }
     vector<string> addOperators(string num, int target) {
-        helper(0,num,target,"",0,0);
+        helper(num,target,0,"",0,0);
         return ans;
     }
 };
